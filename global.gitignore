@@ -1,0 +1,29 @@
+# compiled code
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# package files
+# (should be decompressed)
+*.tar
+*.gz
+*.tgz
+*.zip
+*.jar
+*.rar
+*.iso
+
+# log & database files
+*.log
+*.sql
+*.sqlite
+
+# gloabal working (swap) file
+*.swp
+
+# compiled documentation
+# (use souce files)
+*.pdf

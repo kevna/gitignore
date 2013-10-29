@@ -1,0 +1,6 @@
+gitignores
+==========
+My .gitignore files for git repos:
+* global.gitignore is ~/.gitignore_global.
+* eclipse.gitignore is cloned into repos based in eclipse projects.
+
